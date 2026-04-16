@@ -1,6 +1,7 @@
 # Data Diggers: Fraudulent Review Detection
 
 This repository contains the codebase for the "Data Diggers" project, which proposes a multiview framework for detecting fraudulent and AI-generated reviews across e-commerce platforms. The framework bridges structural behavioral metadata with deep semantic embeddings to isolate sophisticated anomalies and opinion spam. 
+  * **NOTE:** `framework.py` is all of the code cells from the Notebook translated into one big file.
 
 This project was developed for the CS5831 Advanced Data Mining course at Michigan Technological University.
 
